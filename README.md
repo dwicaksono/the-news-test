@@ -7,6 +7,8 @@
 ![Preview](https://i.ibb.co/MPrVs0v/screencapture-localhost-3000-2024-01-09-14-12-22.png)
 ![Preview](https://i.ibb.co/zfMP4qk/screencapture-localhost-3000-2024-01-09-14-13-00.png)
 
+<a href="https://ibb.co/2tTm8Sp"><img src="https://i.ibb.co/k8tk3JP/Screenshot-2024-01-09-at-15-30-19.png" alt="Screenshot-2024-01-09-at-15-30-19" border="0"></a>
+
 ## Repository Description
 
 This web application utilizes data fetched from the free API provided by [developer.nytimes.com](https://developer.nytimes.com). It's built with cutting-edge technologies including:
