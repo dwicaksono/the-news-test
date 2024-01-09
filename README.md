@@ -2,7 +2,7 @@
 
 ## Description
 
-### [preview](https://developer.nytimes.com)
+### [preview](https://the-news-test.vercel.app/)
 
 ![Preview](https://i.ibb.co/MPrVs0v/screencapture-localhost-3000-2024-01-09-14-12-22.png)
 ![Preview](https://i.ibb.co/zfMP4qk/screencapture-localhost-3000-2024-01-09-14-13-00.png)
