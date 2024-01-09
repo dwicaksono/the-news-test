@@ -1,10 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Dimas Wicaksono (Frontend)
+
+## Description
+
+### [preview](https://developer.nytimes.com)
+
+![Preview](https://i.ibb.co/MPrVs0v/screencapture-localhost-3000-2024-01-09-14-12-22.png)
+![Preview](https://i.ibb.co/zfMP4qk/screencapture-localhost-3000-2024-01-09-14-13-00.png)
+
+## Repository Description
+
+This web application utilizes data fetched from the free API provided by [developer.nytimes.com](https://developer.nytimes.com). It's built with cutting-edge technologies including:
+
+- **Next.js 14:** Leveraging the latest capabilities of server components for enhanced performance and dynamic content rendering.
+- **Tailwind CSS:** Utilizing a utility-first CSS framework for rapid and efficient styling.
+- **Infinite Scrolling:** Implemented to facilitate seamless and continuous content loading for a better user experience.
+- **Pagination:** Incorporated to organize and display extensive data across multiple pages efficiently.
+- **Search Filter:** Integrated to empower users to easily search and filter through the available content, enhancing accessibility and usability.
+
+This project demonstrates the power of Next.js server components, the flexibility of Tailwind CSS for styling, and features like infinite scrolling, pagination, and search functionality to create a smooth and interactive user experience.
 
 ## Getting Started
 
 First, run the development server:
 
 ```bash
+rename file from .env.example to .env
+
 npm run dev
 # or
 yarn dev
